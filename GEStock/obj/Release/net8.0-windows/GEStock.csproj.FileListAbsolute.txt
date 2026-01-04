@@ -1,0 +1,62 @@
+C:\Users\ramyh\Desktop\GEStock\GEStock\bin\Release\net8.0-windows\GEStock.exe
+C:\Users\ramyh\Desktop\GEStock\GEStock\bin\Release\net8.0-windows\GEStock.deps.json
+C:\Users\ramyh\Desktop\GEStock\GEStock\bin\Release\net8.0-windows\GEStock.runtimeconfig.json
+C:\Users\ramyh\Desktop\GEStock\GEStock\bin\Release\net8.0-windows\GEStock.dll
+C:\Users\ramyh\Desktop\GEStock\GEStock\bin\Release\net8.0-windows\System.Data.SQLite.dll
+C:\Users\ramyh\Desktop\GEStock\GEStock\bin\Release\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ramyh\Desktop\GEStock\GEStock\bin\Release\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ramyh\Desktop\GEStock\GEStock\bin\Release\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ramyh\Desktop\GEStock\GEStock\bin\Release\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.csproj.AssemblyReference.cache
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.Dashboard.resources
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.Form1.resources
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.History.resources
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.LoginForm.resources
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.Moves.resources
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.Products.resources
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.Properties.Resources.resources
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.csproj.GenerateResource.cache
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.AssemblyInfoInputs.cache
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.AssemblyInfo.cs
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.csproj.CoreCompileInputs.cache
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.csproj.Up2Date
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.dll
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\refint\GEStock.dll
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\GEStock.genruntimeconfig.cache
+C:\Users\ramyh\Desktop\GEStock\GEStock\obj\Release\net8.0-windows\ref\GEStock.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\GEStock.exe
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\GEStock.deps.json
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\GEStock.runtimeconfig.json
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\GEStock.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\ClosedXML.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\RBush.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\System.Data.SQLite.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\System.IO.Packaging.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\bin\Release\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.csproj.AssemblyReference.cache
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.Dashboard.resources
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.Form1.resources
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.History.resources
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.LoginForm.resources
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.Moves.resources
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.Products.resources
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.Properties.Resources.resources
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.csproj.GenerateResource.cache
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.AssemblyInfoInputs.cache
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.AssemblyInfo.cs
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.csproj.CoreCompileInputs.cache
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.csproj.Up2Date
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\refint\GEStock.dll
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\GEStock.genruntimeconfig.cache
+C:\Users\ramyh\Desktop\GEStock - Final\GEStock\obj\Release\net8.0-windows\ref\GEStock.dll

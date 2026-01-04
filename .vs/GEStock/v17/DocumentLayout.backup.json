@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|c:\\users\\ramyh\\desktop\\gestock - final\\gestock\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|solutionrelative:gestock\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|c:\\users\\ramyh\\desktop\\gestock - final\\gestock\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|solutionrelative:gestock\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|c:\\users\\ramyh\\desktop\\gestock - final\\gestock\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|solutionrelative:gestock\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|C:\\Users\\ramyh\\Desktop\\GEStock - Final\\gestock\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|solutionrelative:gestock\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|C:\\Users\\ramyh\\Desktop\\GEStock - Final\\gestock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|solutionrelative:gestock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|c:\\users\\ramyh\\desktop\\gestock - final\\gestock\\gestock.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|solutionrelative:gestock\\gestock.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|C:\\Users\\ramyh\\Desktop\\GEStock - Final\\gestock\\moves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|solutionrelative:gestock\\moves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|c:\\users\\ramyh\\desktop\\gestock - final\\gestock\\moves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|solutionrelative:gestock\\moves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|c:\\users\\ramyh\\desktop\\gestock - final\\gestock\\moves.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|solutionrelative:gestock\\moves.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|c:\\users\\ramyh\\desktop\\gestock - final\\gestock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7E19EF-FBAF-469F-BDF0-E88248F85667}|GEStock\\GEStock.csproj|solutionrelative:gestock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GEStock\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Dashboard.cs [Design]",
+              "RelativeToolTip": "GEStock\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T02:08:48.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "GEStock\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Dashboard.Designer.cs",
+              "RelativeToolTip": "GEStock\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T02:08:35.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Moves.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Moves.cs",
+              "RelativeDocumentMoniker": "GEStock\\Moves.cs",
+              "ToolTip": "C:\\Users\\ramyh\\Desktop\\GEStock\\GEStock\\Moves.cs [Design]",
+              "RelativeToolTip": "..\\GEStock\\GEStock\\Moves.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T22:42:53.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Moves.cs",
+              "DocumentMoniker": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Moves.cs",
+              "RelativeDocumentMoniker": "GEStock\\Moves.cs",
+              "ToolTip": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Moves.cs",
+              "RelativeToolTip": "GEStock\\Moves.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T22:42:17.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Moves.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Moves.Designer.cs",
+              "RelativeDocumentMoniker": "GEStock\\Moves.Designer.cs",
+              "ToolTip": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Moves.Designer.cs",
+              "RelativeToolTip": "GEStock\\Moves.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T22:40:57.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\History.cs",
+              "RelativeDocumentMoniker": "GEStock\\History.cs",
+              "ToolTip": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\History.cs [Design]",
+              "RelativeToolTip": "GEStock\\History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T02:04:40.208Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Products.cs",
+              "RelativeDocumentMoniker": "GEStock\\Products.cs",
+              "ToolTip": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Products.cs [Design]",
+              "RelativeToolTip": "GEStock\\Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T02:04:34.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Form1.cs",
+              "RelativeDocumentMoniker": "GEStock\\Form1.cs",
+              "ToolTip": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Form1.cs",
+              "RelativeToolTip": "GEStock\\Form1.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAKAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T01:27:52.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GEStock",
+              "DocumentMoniker": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\GEStock.csproj",
+              "RelativeDocumentMoniker": "GEStock\\GEStock.csproj",
+              "ToolTip": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\GEStock.csproj",
+              "RelativeToolTip": "GEStock\\GEStock.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-30T19:10:19.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Form1.cs",
+              "RelativeDocumentMoniker": "GEStock\\Form1.cs",
+              "ToolTip": "C:\\Users\\ramyh\\Desktop\\GEStock - Final\\GEStock\\Form1.cs [Design]",
+              "RelativeToolTip": "GEStock\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T19:08:12.199Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
